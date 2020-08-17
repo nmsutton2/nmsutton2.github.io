@@ -9,8 +9,6 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
 name                     : &name "Nicholas M. Sutton"
 description              : &description "Professional academic website"
 url                      : https://nmsutton2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
