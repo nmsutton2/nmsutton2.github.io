@@ -6,5 +6,5 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-------
+---
 Howdy! I am a PhD candidate in the Program in Ecology, Evolution, and Conservation Biology (PEEC) at the University of Illinois at Urbana-Champaign. I am broadly interested in all questions regarding decision-making in animal behavior. In particular, I am interested in how information encoded in the environment is gathered, shared, and otherwise used to inform individual decision-making, and consequently how decision made at the individual level may shape higher-order processes and interactions. For a more detailed description of my current research projects, please see the [_publications directory](https://https://github.com/nmsutton2/nmsutton2.github.io/tree/master/docs/_publications) page. For representative work, please visit the [_publications directory](https://https://github.com/nmsutton2/nmsutton2.github.io/tree/master/docs/_publications) page. Thanks for stopping by!
