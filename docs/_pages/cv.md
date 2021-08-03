@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="http://nmsutton2.github.io/files/Sutton,NM_CV" type="application/pdf" width="100%"> 
-</object>
+<embed src="/nmsutton2.github.io/files/Sutton,NM_CV.pdf" type="application/pdf">
