@@ -85,7 +85,7 @@ author:
   bio              : "Theoretical and Behavioral Ecologist"
   location         : "Champaign, IL"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : ""
   email            : "nmsutto2@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
