@@ -4,4 +4,4 @@ excerpt: "Animals rely not only on external information when making decisions, b
 collection: projects
 ---
 
-PLACEHOLDER TEXT
+A more detailed description of this work is coming to this space soon! In the meantime, feel free to email me with any questions, I'm happy to chat.
